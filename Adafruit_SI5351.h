@@ -230,7 +230,7 @@ typedef enum {
 } si5351CrystalLoad_t;
 
 typedef enum {
-  SI5351_CRYSTAL_FREQ_25MHZ = (25000000),
+  SI5351_CRYSTAL_FREQ_25MHZ = (10000000),
   SI5351_CRYSTAL_FREQ_27MHZ = (27000000)
 } si5351CrystalFreq_t;
 
